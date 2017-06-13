@@ -29,6 +29,6 @@ Link Apk :
 - Simple
 
 ### Screenshot
-<img src="https://github.com/farisphp/AllAboutMovie/blob/master/1.jpeg" alt="Drawing" width="300px"/> <img src="https://github.com/farisphp/AllAboutMovie/blob/master/2.jpeg" alt="Drawing" width="300px"/>
-<img src="https://github.com/farisphp/AllAboutMovie/blob/master/3.jpeg" alt="Drawing" width="300px"/> <img src="https://github.com/farisphp/AllAboutMovie/blob/master/4.jpeg" alt="Drawing" width="300px"/>
-<img src="https://github.com/farisphp/AllAboutMovie/blob/master/5.jpeg" alt="Drawing" width="300px"/>
+<img src="https://github.com/farisphp/AllAboutMovie/blob/master/1.jpg" alt="Drawing" width="300px"/> <img src="https://github.com/farisphp/AllAboutMovie/blob/master/2.jpg" alt="Drawing" width="300px"/>
+<img src="https://github.com/farisphp/AllAboutMovie/blob/master/3.jpg" alt="Drawing" width="300px"/> <img src="https://github.com/farisphp/AllAboutMovie/blob/master/4.jpg" alt="Drawing" width="300px"/>
+<img src="https://github.com/farisphp/AllAboutMovie/blob/master/5.jpg" alt="Drawing" width="300px"/>
