@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="id.sch.smktelkom_mlg.privateassigment.xirpl415.allaboutmovie">
+    package="id.sch.smktelkom_mlg.privateassignment.xirpl415.allaboutmovie">
 
     <application
         android:allowBackup="true"
